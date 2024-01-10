@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "EntrustedAI"
+  site-url: "https://entrustedai.github.io/EntrustedAI"
+  description: "Welcome to Entrusted AI"
+  repo-branch: main
+  repo-url: "https://github.com/entrustedai/EntrustedAI"
